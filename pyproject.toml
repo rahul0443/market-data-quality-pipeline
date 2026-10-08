@@ -1,0 +1,12 @@
+[project]
+name = "market-data-quality-pipeline"
+version = "0.1.0"
+description = "Validation, anomaly detection, and cross-venue reconciliation for market data feeds, scored with fault injection"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 140

@@ -1,0 +1,6 @@
+shift_bps,injected,caught,recall,attributed_to_correct_venue
+10,100,0,0.0,0
+20,100,4,0.04,4
+30,100,93,0.93,93
+50,100,100,1.0,100
+100,100,100,1.0,100

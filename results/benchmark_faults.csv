@@ -1,0 +1,9 @@
+fault,injected,caught,recall,precision
+duplicate_ts,240,240,1.0,1.0
+out_of_order,240,240,1.0,1.0
+missing_bar,240,240,1.0,1.0
+ohlc_inconsistent,240,240,1.0,1.0
+stale_repeat,240,240,1.0,1.0
+price_spike,240,239,0.996,0.992
+range_outlier,240,211,0.879,0.998
+null_or_nonpositive,240,240,1.0,1.0
